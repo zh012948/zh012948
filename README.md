@@ -92,8 +92,8 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 ## 💼 Open to Opportunities
 I’m actively seeking **internships, freelance projects, and full-time roles** in:  
 - Frontend Development (React, Next.js, TypeScript)  
-- Full Stack Development (MERN)  
-- Cybersecurity & Penetration Testing  
+- Full Stack Development (MERN/MEAN Stack)  
+- Backend Development (Node, Express, Python)
 
 If you’re hiring or collaborating, let’s connect! 🚀  
 <a href="mailto:m.zeeshan.haider.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
