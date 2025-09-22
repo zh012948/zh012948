@@ -54,17 +54,17 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
   <a href="https://github.com/zh012948/Expense-Tracker-Firebase" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Expense-Tracker-Firebase&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zh012948/Image-Converter-MERN" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Image-Converter-MERN&theme=tokyonight" />
+  <a href="https://github.com/zh012948/image-converter" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=image-converter&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zh012948/Kasana-Watches" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Kasana-Watches&theme=tokyonight" />
+  <a href="https://github.com/zh012948/eccomerce" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=ecommerce&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zh012948/Bean-Scene" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Bean-Scene&theme=tokyonight" />
+  <a href="https://github.com/zh012948/figma-to-code-coffee-bean" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=figma-to-code-coffee-bean&theme=tokyonight" />
   </a>
 </p>
 
