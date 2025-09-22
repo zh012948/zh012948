@@ -7,20 +7,25 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 CS Undergraduate @ PMAS Arid University (2022 – 2026)  
-- 💻 Specialized in **React.js, Node.js, Express, MongoDB**  
-- 🎯 Focused on **Frontend Excellence** with strong foundations in **MERN Stack**  
-- 🌱 Currently exploring **Next.js, Firebase, and Blockchain**  
-- ✨ Love turning Figma designs into **pixel-perfect, responsive UIs**  
-- ⚡ Fun fact: I debug faster when fueled with coffee ☕  
+## 👨‍🎓 About Me
+Hello! I’m <b>Muhammad Zeeshan Haider</b>, a passionate <b>Frontend Engineer</b> and CS Undergraduate from PMAS Arid University.  
+I love tackling real-world problems with code and have a special interest in <b>Full Stack Development</b> and <b>Modern Frontend Engineering</b>.  
+
+My projects blend strong theoretical foundations with hands-on tech, and I’m always hungry to **learn, build, and share**.
 
 ---
 
-## 🛠️ Tech Arsenal
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,vite,nodejs,express,mongodb,firebase,git,github,vercel,netlify,figma,python,java" />
-</p>
+## 🛠️ Core Skills
+
+- **Programming:** C++, Python, JavaScript (TypeScript), Go  
+- **Web Dev:** HTML5, CSS3 (Tailwind), React, Next.js  
+- **Backend:** Node.js, Express, REST APIs, Sockets  
+- **Cybersecurity:** Encryption, Hashing, Data Integrity, CIA Triad  
+- **Tools:** Git, GitHub, CMake, Framer Motion, EmailJS  
+- **Other:** Algorithms, OOP, Unit Testing  
+- **Penetration Testing** | **Vulnerability Assessment** | **Web Security (SQLi, XSS)** | **Network Security**  
+- **MERN Stack (MongoDB, Express, React, Node.js)**  
+- **Cloud & Tools:** OpenStack, Wireshark, Nmap, VirtualBox  
 
 ---
 
@@ -41,6 +46,27 @@
 ### ☕ [Bean Scene Coffee Shop Website](https://bean-scene-xi.vercel.app/)
 - Modern React-based UI  
 - Boosted engagement by 30% with animations + responsive design  
+
+---
+
+## 📂 Popular Repositories
+<p align="center">
+  <a href="https://github.com/zh012948/Expense-Tracker-Firebase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Expense-Tracker-Firebase&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/zh012948/Image-Converter-MERN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Image-Converter-MERN&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zh012948/Kasana-Watches">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Kasana-Watches&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/zh012948/Bean-Scene">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Bean-Scene&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
