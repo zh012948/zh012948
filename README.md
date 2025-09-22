@@ -61,7 +61,7 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 <p align="center">
   <a href="https://github.com/zh012948/eccomerce" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=ecommerce&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=eccomerce&theme=tokyonight" />
   </a>
   <a href="https://github.com/zh012948/figma-to-code-coffee-bean" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=figma-to-code-coffee-bean&theme=tokyonight" />
