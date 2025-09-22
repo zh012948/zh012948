@@ -31,19 +31,19 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ## 🚀 Featured Projects
 
-### 📊 [Expense Tracker (React + Firebase)](https://expense-tracker-firebase-eosin.vercel.app/)
+### 📊 <a href="https://expense-tracker-firebase-eosin.vercel.app/" target="_blank" rel="noopener noreferrer">Expense Tracker (React + Firebase)</a>
 - Firebase authentication + real-time DB  
 - Budget control features, smooth UI with Tailwind CSS  
 
-### 🖼️ [Image Format Converter (MERN)](https://image-converter-tkkn.onrender.com/)
+### 🖼️ <a href="https://image-converter-tkkn.onrender.com/" target="_blank" rel="noopener noreferrer">Image Format Converter (MERN)</a>
 - Upload → Convert (Sharp + Node.js) → Download  
 - Handles multiple formats, fast & scalable  
 
-### ⌚ [E-Commerce Website – Kasana Watches](https://kasana-watches.vercel.app/)
+### ⌚ <a href="https://kasana-watches.vercel.app/" target="_blank" rel="noopener noreferrer">E-Commerce Website – Kasana Watches</a>
 - Product filtering, search, and pagination  
 - LocalStorage-based persistence + WhatsApp integration  
 
-### ☕ [Bean Scene Coffee Shop Website](https://bean-scene-xi.vercel.app/)
+### ☕ <a href="https://bean-scene-xi.vercel.app/" target="_blank" rel="noopener noreferrer">Bean Scene Coffee Shop Website</a>
 - Modern React-based UI  
 - Boosted engagement by 30% with animations + responsive design  
 
@@ -51,19 +51,19 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ## 📂 Popular Repositories
 <p align="center">
-  <a href="https://github.com/zh012948/Expense-Tracker-Firebase">
+  <a href="https://github.com/zh012948/Expense-Tracker-Firebase" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Expense-Tracker-Firebase&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zh012948/Image-Converter-MERN">
+  <a href="https://github.com/zh012948/Image-Converter-MERN" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Image-Converter-MERN&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zh012948/Kasana-Watches">
+  <a href="https://github.com/zh012948/Kasana-Watches" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Kasana-Watches&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zh012948/Bean-Scene">
+  <a href="https://github.com/zh012948/Bean-Scene" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Bean-Scene&theme=tokyonight" />
   </a>
 </p>
@@ -89,12 +89,25 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ---
 
+## 💼 Open to Opportunities
+I’m actively seeking **internships, freelance projects, and full-time roles** in:  
+- Frontend Development (React, Next.js, TypeScript)  
+- Full Stack Development (MERN)  
+- Cybersecurity & Penetration Testing  
+
+If you’re hiring or collaborating, let’s connect! 🚀  
+<a href="mailto:m.zeeshan.haider.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://m-zeeshan-haider.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
+
+---
+
 ## 🌐 Let’s Connect
 <p align="center">
-  <a href="mailto:m.zeeshan.haider.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://m-zeeshan-haider.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://instagram.com/zh012948"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:m.zeeshan.haider.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://m-zeeshan-haider.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://instagram.com/zh012948" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
