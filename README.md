@@ -20,12 +20,9 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 - **Programming:** C++, Python, JavaScript (TypeScript), Go  
 - **Web Dev:** HTML5, CSS3 (Tailwind), React, Next.js  
 - **Backend:** Node.js, Express, REST APIs, Sockets  
-- **Cybersecurity:** Encryption, Hashing, Data Integrity, CIA Triad  
 - **Tools:** Git, GitHub, CMake, Framer Motion, EmailJS  
 - **Other:** Algorithms, OOP, Unit Testing  
-- **Penetration Testing** | **Vulnerability Assessment** | **Web Security (SQLi, XSS)** | **Network Security**  
 - **MERN Stack (MongoDB, Express, React, Node.js)**  
-- **Cloud & Tools:** OpenStack, Wireshark, Nmap, VirtualBox  
 
 ---
 
