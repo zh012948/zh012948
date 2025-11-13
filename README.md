@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e8bff,100:49e9fa&height=160&section=header&text=Hey,%20I'm%20Muhammad%20Zeeshan%20Haider!%20👋&fontSize=34&fontAlign=50&fontColor=ffffff" />
 
 <p align="center">
-  <b>Frontend Engineer | MERN Stack Developer | Lifelong Learner</b><br>
+  <b>Software Engineer | MERN Stack Developer | Lifelong Learner</b><br>
   🚀 Passionate about building modern, responsive, and scalable web apps
 </p>
 
