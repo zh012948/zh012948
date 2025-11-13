@@ -8,8 +8,8 @@
 ---
 
 ## 👨‍🎓 About Me
-Hello! I’m <b>Muhammad Zeeshan Haider</b>, a passionate <b>Frontend Engineer</b> and CS Undergraduate from PMAS Arid University.  
-I love tackling real-world problems with code and have a special interest in <b>Full Stack Development</b> and <b>Modern Frontend Engineering</b>.  
+Hello! I’m <b>Muhammad Zeeshan Haider</b>, a passionate <b>Software Engineer</b> and CS Undergraduate from PMAS Arid University.  
+I love tackling real-world problems with code and have a special interest in <b>Full Stack Development</b> and <b>Modern Software Engineering</b>.  
 
 My projects blend strong theoretical foundations with hands-on tech, and I’m always hungry to **learn, build, and share**.
 
