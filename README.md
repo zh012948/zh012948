@@ -53,7 +53,7 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 ## 📂 Popular Repositories
 <p align="center">
   <a href="https://github.com/zh012948/uptimepulse" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=figma-to-code-coffee-bean&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=uptimepulse&theme=tokyonight" />
   </a>
   <a href="https://github.com/zh012948/Expense-Tracker-Firebase" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Expense-Tracker-Firebase&theme=tokyonight" />
