@@ -28,6 +28,10 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ## 🚀 Featured Projects
 
+### 🌐 <a href="https://uptime-pulse-zeeshan.vercel.app/" target="_blank" rel="noopener noreferrer">UptimePulse – URL Monitoring Platform (Next.js + Node.js)</a>
+- Prevents Render free-tier apps from sleeping using automated 5-minute cron pings  
+- Secure authentication, persistent login, dashboards, and CRUD for monitored URLs
+
 ### 📊 <a href="https://expense-tracker-firebase-eosin.vercel.app/" target="_blank" rel="noopener noreferrer">Expense Tracker (React + Firebase)</a>
 - Firebase authentication + real-time DB  
 - Budget control features, smooth UI with Tailwind CSS  
