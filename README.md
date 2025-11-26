@@ -52,21 +52,21 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ## 📂 Popular Repositories
 <p align="center">
-  <a href="https://github.com/zh012948/uptimepulse" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=uptimepulse&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/uptimepulse" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=uptimepulse&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zh012948/Expense-Tracker-Firebase" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=Expense-Tracker-Firebase&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/Expense-Tracker-Firebase" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=Expense-Tracker-Firebase&theme=tokyonight" />
   </a>
   
 </p>
 
 <p align="center">
-  <a href="https://github.com/zh012948/image-converter" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=image-converter&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/image-converter" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=image-converter&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zh012948/eccomerce" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zh012948&repo=eccomerce&theme=tokyonight" />
+  <a href="https://github.com/mzeeshanh-dev/eccomerce" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzeeshanh-dev&repo=eccomerce&theme=tokyonight" />
   </a>
   
 </p>
@@ -75,12 +75,12 @@ My projects blend strong theoretical foundations with hands-on tech, and I’m a
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zh012948&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh012948&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mzeeshanh-dev&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzeeshanh-dev&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zh012948&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=mzeeshanh-dev&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ If you’re hiring or collaborating, let’s connect! 🚀
   <a href="mailto:m.zeeshan.haider.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/m-zeeshan-haider-606bb3284/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://m-zeeshan-haider.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://instagram.com/zh012948" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/mzeeshanh-dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
